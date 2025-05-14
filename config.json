@@ -1,0 +1,8 @@
+{
+    "DISCORD_BOT_TOKEN": "MTM3MTYzMDcwMzY0MDU4MDE4Nw.GHeMZF.C87mgN1q-1OFwrFaBsocB1JuAag67FNT4QVsKg",
+    "DISCORD_BOT_INVITE": "https://discord.com/oauth2/authorize?client_id=1371630703640580187&permissions=36768768&integration_type=0&scope=bot+applications.commands",
+    "EFEITOS_DIR": "efeitos",
+    "EMOJIS_DIR": "emojis",
+    "VAR_ORDER": "creation_time",
+    "VAR_TIME_LIMIT_EFFECT": 5
+}
