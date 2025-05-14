@@ -18,8 +18,7 @@
 > ```json
 > {
 >   "DISCORD_BOT_TOKEN": "SEU_TOKEN_DO_BOT_AQUI",
->   "DISCORD_BOT_INVITE": "SEU_LINK_CONVITE_BOT",
->   . . .
+>   "DISCORD_BOT_INVITE": "SEU_LINK_CONVITE_BOT"
 > }
 > ```
 >
