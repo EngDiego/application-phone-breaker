@@ -115,7 +115,7 @@ python main.py
 ├── config.json          # Arquivo de configuração (você cria)
 ├── main.py              # Arquivo principal do bot
 ├── requirements.txt     # Dependências
-├── icon.ico             # Ícone do bot (opcional)
+├── assets/icon.ico             # Ícone do bot (opcional)
 ├── src/                 # Código modularizado
 │   ├── audio.py         # Funções de áudio
 │   ├── emoji.py         # Carregamento de ícones
