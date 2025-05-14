@@ -24,5 +24,6 @@ zip -r quebra_fone_source.zip . \
 5. pip install pynacl pyinstaller 
 6. pyinstaller main.py --console --onedir --name "QuebraFone"  --add-data "config.json;." --add-data "assets;assets" --add-data "efeitos;efeitos" --add-data "emojis;emojis" --icon "assets/icon.ico" --collect-all discord --collect-all nacl --collect-all cffi --hidden-import=discord.opus --hidden-import=_cffi_backend --noconfirm
 7. pyinstaller main.py --windowed --onedir --name "QuebraFone"  --add-data "config.json;." --add-data "assets;assets" --add-data "efeitos;efeitos" --add-data "emojis;emojis" --icon "assets/icon.ico" --collect-all discord --collect-all nacl --collect-all cffi --hidden-import=discord.opus --hidden-import=_cffi_backend --noconfirm
-8. robocopy "C:\Codes\QuebraFone\.pack\standart" "C:\Codes\QuebraFone\dist\QuebraFone" /E
-9. robocopy "C:\Codes\QuebraFone\.pack\brabo" "C:\Codes\QuebraFone\dist\QuebraFone" /E
+8. robocopy ".pack\standart" ".\dist\QuebraFone" /E
+9. robocopy ".pack\brabo" ".\dist\QuebraFone" /E
+10. .\dist\QuebraFone\QuebraFone.exe          
