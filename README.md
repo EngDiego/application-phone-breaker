@@ -40,9 +40,9 @@
 2. **Crie e ative um ambiente virtual (opcional, mas recomendado):**
 
    ```bash
-   python -m venv venv
+   python -m venv .venv
    # Windows
-   venv\Scripts\activate
+   .venv\Scripts\activate
    # macOS/Linux
    source venv/bin/activate
    ```
