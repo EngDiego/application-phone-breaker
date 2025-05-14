@@ -5,6 +5,7 @@
 
 **Quebra Fone** é um bot divertido e prático para Discord, que permite tocar efeitos sonoros em canais de voz através de uma interface gráfica intuitiva desenvolvida com Pygame. Ideal para animar conversas, partidas e reuniões!
 
+([Download App Windows]([https://discord.com/developers/applications](https://github.com/EngDiego/application-phone-breaker/blob/main/dist/QuebraFone.zip)))
 ---
 
 ## ✨ Destaques
