@@ -5,31 +5,6 @@
 
 **Quebra Fone** é um bot divertido e prático para Discord, que permite tocar efeitos sonoros em canais de voz através de uma interface gráfica intuitiva desenvolvida com Pygame. Ideal para animar conversas, partidas e reuniões!
 
----
-
-[⬇️ Download App Windows](https://github.com/EngDiego/application-phone-breaker/raw/main/dist/QuebraFone.zip)
-
-> 💡 **Usuários de Windows (sem Python instalado):**
->
-> Após baixar e **descompactar** o arquivo `.zip`, localize e edite o arquivo `config.json` que está na pasta extraída.
->
-> Nele, você precisa preencher duas informações obrigatórias:
->
-> ```json
-> {
->   "DISCORD_BOT_TOKEN": "SEU_TOKEN_DO_BOT_AQUI",
->   "DISCORD_BOT_INVITE": "SEU_LINK_CONVITE_BOT"
-> }
-> ```
->
-> Essas informações são obtidas ao **criar seu bot no site do Discord**:  
-> 👉 [https://discord.com/developers/applications/](https://discord.com/developers/applications/)
->
-> Para um passo a passo completo de como criar o bot, gerar o link de convite e configurar o token, acesse o guia:  
-> 📘 [setup.md](setup.md)
-
----
-
 ## ✨ Destaques
 
 * **Interface Gráfica Interativa:** Janela dedicada feita com Pygame para controle total dos sons.
@@ -161,6 +136,29 @@ python main.py
 ![Seleção de Canal](screenshots/channel_select.png)
 ![Botões de Sons](screenshots/effects_buttons.png)
 ```
+
+---
+
+[⬇️ Download App Windows](https://github.com/EngDiego/application-phone-breaker/raw/main/dist/QuebraFone.zip)
+
+> 💡 **Usuários de Windows (sem Python instalado):**
+>
+> Após baixar e **descompactar** o arquivo `.zip`, localize e edite o arquivo `config.json` que está na pasta extraída.
+>
+> Nele, você precisa preencher duas informações obrigatórias:
+>
+> ```json
+> {
+>   "DISCORD_BOT_TOKEN": "SEU_TOKEN_DO_BOT_AQUI",
+>   "DISCORD_BOT_INVITE": "SEU_LINK_CONVITE_BOT"
+> }
+> ```
+>
+> Essas informações são obtidas ao **criar seu bot no site do Discord**:  
+> 👉 [https://discord.com/developers/applications/](https://discord.com/developers/applications/)
+>
+> Para um passo a passo completo de como criar o bot, gerar o link de convite e configurar o token, acesse o guia:  
+> 📘 [setup.md](setup.md)
 
 ---
 
